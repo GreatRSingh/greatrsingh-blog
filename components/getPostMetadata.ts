@@ -5,7 +5,17 @@ import { PostMetadata } from "../components/PostMetadata";
 const getPostMetadata = (): PostMetadata[] => {
   const folder = "posts/";
   const files = fs.readdirSync(folder);
-  const markdownPosts = files.filter((file) => file.endsWith(".md"));
+  let markdownPosts = files.filter((file) => file.endsWith(".md"));
+
+
+  function sortByDate(dateStrings: string[]): string[] {
+    return dateStrings.sort((a, b) => {
+        const dateA = new Date(a.split('.')[0]);
+        const dateB = new Date(b.split('.')[0]);
+        return dateA.getTime() - dateB.getTime();
+    });
+}
+  markdownPosts = sortByDate(markdownPosts)
 
   // Get gray-matter data from each file.
   const posts = markdownPosts.map((fileName) => {
