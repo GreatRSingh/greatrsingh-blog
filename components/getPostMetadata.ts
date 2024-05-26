@@ -12,7 +12,7 @@ const getPostMetadata = (): PostMetadata[] => {
     return dateStrings.sort((a, b) => {
         const dateA = new Date(a.split('.')[0]);
         const dateB = new Date(b.split('.')[0]);
-        return dateA.getTime() - dateB.getTime();
+        return dateB.getTime() - dateA.getTime();
     });
 }
   markdownPosts = sortByDate(markdownPosts)
