@@ -14,7 +14,7 @@ const getPostMetadata = (): PostMetadata[] => {
         const dateB = new Date(b.split('.')[0]);
         return dateB.getTime() - dateA.getTime();
     });
-}
+  }
   markdownPosts = sortByDate(markdownPosts)
 
   // Get gray-matter data from each file.
