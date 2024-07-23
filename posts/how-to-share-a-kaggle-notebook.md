@@ -11,5 +11,5 @@ But the best way to become smart is to stop being dumb, by following this.
 If you have shared the link of your notebook which you found on the top of your browser, and the person complained about this.
 
 <p align="center">
-  <img src="/public/how-to-share-1.png" style="height: 100px"/>
+  <img src="https://blog-greatrsingh-storage.s3.ap-south-1.amazonaws.com/share-1.png" style="height: 100px"/>
 </p>
