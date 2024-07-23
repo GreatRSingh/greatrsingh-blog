@@ -11,25 +11,25 @@ But the best way to become smart is to stop being dumb, by following this.
 If you have shared the link of your notebook which you found on the top of your browser, and the person complained about this.
 
 <p align="center">
-  <img src="https://blog-greatrsingh-storage.s3.ap-south-1.amazonaws.com/share-2.png" style="height: 200px"/>
+  <img src="https://blog-greatrsingh-storage.s3.ap-south-1.amazonaws.com/share-2.png"/>
 </p>
 
 So, now lets get on to fixing this problem. When you make a new notebook you will reach this page.
 
 <p align="center">
-  <img src="https://blog-greatrsingh-storage.s3.ap-south-1.amazonaws.com/share-1.png" style="height: 100px"/>
+  <img src="https://blog-greatrsingh-storage.s3.ap-south-1.amazonaws.com/share-1.png"/>
 </p>
 
 Then if you click on the file button on the top left corner. A drop-down menu will open up.
 
 <p align="center">
-  <img src="https://blog-greatrsingh-storage.s3.ap-south-1.amazonaws.com/share-3.png" style="height: 400px"/>
+  <img src="https://blog-greatrsingh-storage.s3.ap-south-1.amazonaws.com/share-3.png"/>
 </p>
 
 Click on the share button which is available in the menu. Doing this will open a internal tab allowing you to either share the notebook with a few peoples by keeping it private and searching them by there username. or make it public so that everyone can see.
 
 <p align="center">
-  <img src="https://blog-greatrsingh-storage.s3.ap-south-1.amazonaws.com/share-4.png" style="height: 300px"/>
+  <img src="https://blog-greatrsingh-storage.s3.ap-south-1.amazonaws.com/share-4.png"/>
 </p>
 
 Thank you.
