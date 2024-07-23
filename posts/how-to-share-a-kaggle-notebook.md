@@ -1,7 +1,7 @@
 ---
 title: "How to share a Kaggle Notebook"
 subtitle: "Step by Step guide to sharing a notebook in kaggle."
-date: "2024-6-17"
+date: "2024-7-23"
 ---
 
 If you have shared the link of your notebook which you found on the top of your browser, and the person complained about this.
