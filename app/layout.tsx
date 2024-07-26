@@ -23,8 +23,8 @@ export default function RootLayout({
   const footer = (
     <footer>
       <div className="border-t border-slate-400 mt-12 py-6 text-center text-slate-400">
-        <h3>Designed by Pixegami, Swadhin, Sonali, Prasad, Rakshit</h3>
-        <div className="flex justify-end">
+      <h3>Designed by Pixegami, Swadhin, Sonali, Mayur, Prasad, Rakshit</h3>
+      <div className="flex justify-end">
           <SubscribeButton />
         </div>
       </div>
