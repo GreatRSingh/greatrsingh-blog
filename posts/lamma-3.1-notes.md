@@ -24,7 +24,7 @@ De-duplication was used in many ways:
 
 1. URL-level de-duplication
 2. Document-level de-duplication
-    > Global MinHash (Broder, 1997).
+    - Global MinHash (Broder, 1997).
 3. Line-level de-duplication
     > ccNet (Wenzek et al., 2019).
     > Remove line which appear more than 6 times in each bucket of 30M documents.
@@ -48,10 +48,9 @@ pre-train Llama 3 405B consists of three main stages:
 
 Thanks for Reading, Readers are Leaders.
 
-Author - Singh, Rakshit Kr.
+----
 
-Mail - rakshitsingh421@gmail.com
-
-LinkedIn - https://www.linkedin.com/in/rakshit-singh-ai/
-
-X - https://x.com/RSINGH54369249
+Author - Singh, Rakshit Kr. <br>
+Mail - rakshitsingh421@gmail.com <br>
+LinkedIn - https://www.linkedin.com/in/rakshit-singh-ai/ <br>
+X - https://x.com/RSINGH54369249 <br>

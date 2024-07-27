@@ -14,6 +14,7 @@ date: "2024-7-28"
 7. What good scorers did?
 8. Conclusion.
 
+----
 
 
 
@@ -21,10 +22,9 @@ date: "2024-7-28"
 
 Thanks for Reading, Readers are Leaders.
 
-Author - Singh, Rakshit Kr.
+----
 
-Mail - rakshitsingh421@gmail.com
-
-LinkedIn - https://www.linkedin.com/in/rakshit-singh-ai/
-
+Author - Singh, Rakshit Kr. and Patra, Sonali Lipsa <br>
+Mail - rakshitsingh421@gmail.com <br>
+LinkedIn - https://www.linkedin.com/in/rakshit-singh-ai/ <br>
 X - https://x.com/RSINGH54369249
