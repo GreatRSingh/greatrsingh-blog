@@ -8,7 +8,7 @@ Machine learning is a way of teaching computers to learn without being explicitl
 
 > “People worry that computers will get too smart and take over the world, but the real problem is that they’re too stupid and they’ve already taken over the world.” — Pedro Domingos
 
-## A general pipeline for Machine Learning is :
+## A general pipeline for Machine Learning is:
 
 1. python
 2. Numpy
@@ -17,7 +17,7 @@ Machine learning is a way of teaching computers to learn without being explicitl
 5. Tensorflow / PyTorch — implementation know-how
 6. Mathematics
 
----
+----
 
 ### Python
 
@@ -37,14 +37,11 @@ Machine learning is a way of teaching computers to learn without being explicitl
 #### Resources:
 
 1. [100 Days of Python Programming — CampusX](https://www.youtube.com/playlist?list=PLKnIA16_Rmvb1RYR-iTA_hzckhdONtSW4)
-
 2. [Python in 100 Seconds — FireShip](https://www.youtube.com/playlist?list=PLKnIA16_Rmvb1RYR-iTA_hzckhdONtSW4)
-
 3. [Official Python Site](https://www.python.org/)
-
 4. [Free Python Programming Book (goalkicker.com)](https://books.goalkicker.com/PythonBook/)
 
----
+----
 
 ### Numpy
 
@@ -59,12 +56,10 @@ NumPy brings the computational power of languages like C and Fortran to Python, 
 #### Resources:
 
 1. [NumPy Website](https://numpy.org/)
-
 2. [Python NumPy Tutorial for Beginners — FreeCodeCamp](https://www.youtube.com/watch?v=QUT1VHiLmmI&ab_channel=freeCodeCamp.org)
-
 3. [NumPy Learn](https://numpy.org/learn/)
 
----
+----
 
 ### Pandas
 
@@ -77,10 +72,9 @@ NumPy brings the computational power of languages like C and Fortran to Python, 
 #### Resources:
 
 1. [pandas — Python Data Analysis Library (pydata.org)](https://pandas.pydata.org/)
-
 2. [Pandas & Python for Data Analysis by Example — Full Course for Beginners — FreeCodeCamp](https://pandas.pydata.org/)
 
----
+----
 
 ### Matplotlib
 
@@ -88,18 +82,15 @@ NumPy brings the computational power of languages like C and Fortran to Python, 
   <img src="https://matplotlib.org/_static/images/documentation.svg" style="height: 100px"/>
 </p>
 
-
 **Matplotlib** is a comprehensive library for creating static, animated, and interactive visualizations in Python. **Matplotlib** makes easy things easy and hard things possible.
 
 #### Resources:
 
 1. [MatplotLib Official Site](https://matplotlib.org/)
-
 2. [Quick start guide — Matplotlib 3.7.2 documentation](https://matplotlib.org/stable/tutorials/introductory/quick_start.html)
-
 3. [Matplotlib Full Course — Data Science Fundamentals — NeuralNine](https://matplotlib.org/stable/tutorials/introductory/quick_start.html)
 
----
+----
 
 ### SkLearn
 
@@ -112,12 +103,10 @@ NumPy brings the computational power of languages like C and Fortran to Python, 
 #### Resources:
 
 1. [100 Days of Machine Learning — CampusX](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
-
 2. [scikit-learn](https://scikit-learn.org/stable/)
-
 3. [Getting Started — scikit-learn 1.3.0 documentation](https://scikit-learn.org/stable/getting_started.html)
 
----
+----
 
 ### PyTorch
 
@@ -131,10 +120,9 @@ NumPy brings the computational power of languages like C and Fortran to Python, 
 #### Resources:
 
 1. [Deep Learning with PyTorch: Zero to GANs — Jovian](https://www.youtube.com/playlist?list=PLyMom0n-MBroupZiLfVSZqK5asX8KfoHL)
-
 2. [PyTorch Official Site](https://pytorch.org/)
 
----
+----
 
 ### Mathematics
 
@@ -143,5 +131,13 @@ First Year College maths is very important for basics.
 #### Resources:
 
 1. An Introduction to Statistical Learning — Book
-
 2. Ncert Class-12 — Book
+
+Thanks for Reading, Readers are Leaders.
+
+----
+
+Author - Singh, Rakshit Kr. <br>
+Mail - rakshitsingh421@gmail.com <br>
+LinkedIn - https://www.linkedin.com/in/rakshit-singh-ai/ <br>
+X - https://x.com/RSINGH54369249 <br>

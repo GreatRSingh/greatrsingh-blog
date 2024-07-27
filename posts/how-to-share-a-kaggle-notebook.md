@@ -32,10 +32,9 @@ Thank you.
 
 Signing Off,
 
-Author - Rakshit Kr. Singh
+----
 
-Mail - rakshitsingh421@gmail.com
-
-LinkedIn - https://www.linkedin.com/in/rakshit-singh-ai/
-
-X - https://x.com/RSINGH54369249
+Author - Rakshit Kr. Singh <br>
+Mail - rakshitsingh421@gmail.com <br>
+LinkedIn - https://www.linkedin.com/in/rakshit-singh-ai/ <br>
+X - https://x.com/RSINGH54369249 <br>
