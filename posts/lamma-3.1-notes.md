@@ -19,19 +19,16 @@ In Lamma 3 meta tried to optimize for these three levers in our development proc
 3. standard dense Transformer model architecture (Vaswani et al., 2017) with minor adaptations, rather than for a mixture-of-experts model (Shazeer et al., 2017) to maximize training stability. Similarly, we adopt a relatively simple post-training procedure based on supervised finetuning (SFT), rejection sampling (RS), and direct preference optimization (DPO; Rafailov et al. (2023)) as opposed to more complex reinforcement learning algorithms (Ouyang et al., 2022; Schulman et al., 2017) that tend to be less stable and harder to scale.
 
 Text extraction and cleaning. We process the raw HTML content for non-truncated web documents to extract high-quality diverse text. To do so, we build a custom parser that extracts the HTML content and optimizes for precision in boilerplate removal and content recall. We evaluate our parser’s quality in human evaluations, comparing it with popular third-party HTML parsers that optimize for article-like content, and found it to perform favorably. We carefully process HTML pages with mathematics and code content to preserve the structure of that content. We maintain the image alt attribute text since mathematical content is often represented as pre-rendered images where the math is also provided in the alt attribute. We experimentally evaluate different cleaning configurations. We find markdown is harmful to the performance of a
-`
+
 De-duplication was used in many ways:
 
 1. URL-level de-duplication
-
 2. Document-level de-duplication
     > Global MinHash (Broder, 1997).
-
 3. Line-level de-duplication
     > ccNet (Wenzek et al., 2019).
     > Remove line which appear more than 6 times in each bucket of 30M documents.
     > From human Logic some sentence got broken due to this, but the model got improved.
-
 4. Heuristic Filtering
     >  duplicated n-gram coverage ratio (Rae et al., 2021) to remove lines that consist of repeated content such as logging or error messages. Those lines could be very long and unique, hence cannot be filtered by line-dedup.
     > “dirty word” counting (Raffel et al., 2020) to filter out adult websites that are not covered by domain block lists.
