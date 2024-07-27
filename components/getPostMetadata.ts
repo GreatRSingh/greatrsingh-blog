@@ -25,7 +25,6 @@ const getPostMetadata = (): PostMetadata[] => {
   const posts = markdownPosts.map((fileName) => {
     const fileContents = fs.readFileSync(`posts/${fileName}`, "utf8");
     const matterResult = matter(fileContents);
-    console.log(matterResult.data.date);
     return {
       title: matterResult.data.title,
       date: matterResult.data.date,
