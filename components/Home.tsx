@@ -1,10 +1,16 @@
 "use client";
 
-import { use, useEffect, useRef } from "react";
-import getPostMetadata from "../components/getPostMetadata";
+import {  useEffect } from "react";
 import PostPreview from "../components/PostPreview";
 
-export const Home = ({postMetadata}) => {
+interface PostMetadata {
+    title: string;
+    date: string;
+    subtitle: string;
+    slug: string;
+}
+
+export const Home = ({postMetadata}:{postMetadata: PostMetadata[]}) => {
     
     const postPreviews = postMetadata.map((post) => (
       <PostPreview key={post.slug} {...post} />
