@@ -13,8 +13,8 @@ const HomePage = async () => {
     {
       data: [
         {
-          id: "INCREMENT",
-          "date-time": "DATETIME",
+          'id': "INCREMENT",
+          'date-time': "DATETIME",
         },
       ],
       return_values: true,
