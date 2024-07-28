@@ -1,14 +1,20 @@
+import { headers } from "next/headers";
 import getPostMetadata from "../components/getPostMetadata";
-import { Home } from "../components/Home";
 import PostPreview from "../components/PostPreview";
+import { aggregate } from "./lib/actions/aggregate";
 
 const HomePage = async () => {
   const postMetadata = getPostMetadata();
+  const postPreviews = postMetadata.map((post) => (
+    <PostPreview key={post.slug} {...post} />
+  ));
+  
+  aggregate('home');
 
   return (
-    <>
-      <Home postMetadata = {postMetadata}/>
-      </>
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+      {postPreviews}
+      </div>
   );
 };
 
