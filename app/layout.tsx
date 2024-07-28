@@ -5,7 +5,7 @@ import type { Metadata } from 'next'
  
 export const metadata: Metadata = {
   title: "Rakshit's Blog",
-  description: "Welcome to my tech blog. 🤟",
+  description: "Machine Learning indepth articles.",
 }
 
 
@@ -29,11 +29,12 @@ export default function RootLayout({
 
   const footer = (
     <footer>
-      <div className="border-t border-slate-400 mt-12 py-6 text-center text-slate-400">
-      <h3>Designed by Pixegami, Swadhin, Sonali, Mayur, Prasad, Rakshit</h3>
-      <div className="flex justify-end">
+      <div className=" border-slate-400 mt-12 py-6 text-center text-slate-400">
+      <div className="flex justify-center mb-1">
           <SubscribeButton />
         </div>
+      <h3>Designed by Pixegami, Swadhin, Sonali, Mayur, Prasad, Rakshit</h3>
+
       </div>
     </footer>
   );
