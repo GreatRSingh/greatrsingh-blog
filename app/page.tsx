@@ -9,7 +9,7 @@ const HomePage = async () => {
     <PostPreview key={post.slug} {...post} />
   ));
   
-  aggregate('home');
+  await aggregate('home');
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">

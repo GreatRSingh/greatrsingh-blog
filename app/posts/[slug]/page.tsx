@@ -21,10 +21,10 @@ export const generateStaticParams = async () => {
   }));
 };
 
-const PostPage = (props: any) => {
+const PostPage = async (props: any) => {
   const slug = props.params.slug;
 
-  aggregate(slug);
+  await aggregate(slug);
 
   const post = getPostContent(slug);
   return (
