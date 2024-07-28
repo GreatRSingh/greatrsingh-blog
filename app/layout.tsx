@@ -40,7 +40,7 @@ export default function RootLayout({
   );
 
   return (
-    <html>
+    <html lang="en">
       <body>
         <div className="mx-auto  max-w-5xl px-6">
           {header}
