@@ -18,11 +18,11 @@ export default function RootLayout({
     <header>
       <div className="text-center p-8 my-6 rounded-md">
         <Link href="/">
-          <h1 className="text-2xl text-slate-700 font-bold mt-4">
+          <h1 className="text-2xl text-slate-700 font-bold mt-1">
             Rakshit's Blog
           </h1>
         </Link>
-        <p className="text-slate-400">🤟 Welcome to my tech blog. 💻</p>
+        <p className="text-black-800">🤟 Welcome to my tech blog. 💻</p>
       </div>
     </header>
   );
