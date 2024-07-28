@@ -1,6 +1,13 @@
 import Link from "next/link";
 import "../styles/globals.css";
 import SubscribeButton from "../components/Subscribe";
+import type { Metadata } from 'next'
+ 
+export const metadata: Metadata = {
+  title: "Rakshit's Blog",
+  description: "Welcome to my tech blog. 🤟",
+}
+
 
 export default function RootLayout({
   children,
@@ -33,7 +40,6 @@ export default function RootLayout({
 
   return (
     <html>
-      <head />
       <body>
         <div className="mx-auto  max-w-5xl px-6">
           {header}
