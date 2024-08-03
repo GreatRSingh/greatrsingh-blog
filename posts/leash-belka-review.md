@@ -39,7 +39,7 @@ Thanks for Reading, Readers are Leaders.
 
 ----
 
-Author - Singh, Rakshit Kr. and Patra, Sonali Lipsa <br>
+Author - Singh, Rakshit Kr <br>
 Mail - rakshitsingh421@gmail.com <br>
 LinkedIn - https://www.linkedin.com/in/rakshit-singh-ai/ <br>
 X - https://x.com/RSINGH54369249
