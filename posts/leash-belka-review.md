@@ -6,13 +6,28 @@ date: "2024-7-28"
 
 # Contents
 1. What was it?
+    - Rishi
+    - From Competition Page.
 2. Did it achieve its objective?
-3. Our Approach.
-4. What we did right?
-5. What we did wrong?
-6. Best Approch.
-7. What good scorers did?
-8. Conclusion.
+    - Rakshit
+    - Our Opinion : No.
+4. Our Approach.
+    - Rishi
+    - From History.
+5. What we did right?
+    - Rakshit
+    - 
+6. What we did wrong?
+    - Rishi
+    - We didn't worked on cv and trusted on public score.
+7. Best Approch.
+    - Rakshit
+    - Write about the winning system.
+9. What good scorers did?
+    - Rishi
+    - Overall Good average approach.
+10. Conclusion.
+    - Rakshit
 
 ----
 
