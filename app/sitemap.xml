@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://blog.greatrsingh.in/</loc>
+  <lastmod>2024-08-29T11:32:48+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://blog.greatrsingh.in/posts/leash-belka-review</loc>
+  <lastmod>2024-08-29T11:32:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.greatrsingh.in/posts/lamma-3.1-notes</loc>
+  <lastmod>2024-08-29T11:32:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.greatrsingh.in/posts/how-to-share-a-kaggle-notebook</loc>
+  <lastmod>2024-08-29T11:32:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.greatrsingh.in/posts/daily-log-25-may-2024</loc>
+  <lastmod>2024-08-29T11:32:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.greatrsingh.in/posts/daily-log-22-may-2024</loc>
+  <lastmod>2024-08-29T11:32:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.greatrsingh.in/posts/adventures-into-the-depths-of-machine-learning</loc>
+  <lastmod>2024-08-29T11:32:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blog.greatrsingh.in/posts/machine-learning-starter-guide</loc>
+  <lastmod>2024-08-29T11:32:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
